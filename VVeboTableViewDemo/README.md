@@ -158,3 +158,4 @@ return;
 
 注明：本篇的分析源码来源于开源项目VVeboTableViewDemo
 参考：https://github.com/johnil/VVeboTableViewDemo
+参考：http://mp.weixin.qq.com/s?__biz=MzA4ODk0NjY4NA==&mid=213566835&idx=1&sn=5614b0aad4d906a068cd7c7ef571f683&scene=1&srcid=1127uCUl7jNMiHSrKFQY48iA#rd
